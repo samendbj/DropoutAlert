@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn==X.X.X
+xgboost==X.X.X
+shap
+matplotlib
+ucimlrepo
+joblib==X.X.X

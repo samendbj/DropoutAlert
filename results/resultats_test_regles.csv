@@ -1,0 +1,10 @@
+Scénario,Modèle,F1,Rappel,ROC-AUC,PR-AUC
+A,Régression logistique,0.715,0.761,0.856,0.825
+A,Random Forest,0.713,0.725,0.849,0.816
+A,XGBoost,0.71,0.746,0.861,0.835
+B,Régression logistique,0.856,0.887,0.95,0.944
+B,Random Forest,0.868,0.856,0.95,0.943
+B,XGBoost,0.871,0.891,0.956,0.952
+C,Régression logistique,0.902,0.94,0.976,0.973
+C,Random Forest,0.901,0.898,0.97,0.967
+C,XGBoost,0.908,0.915,0.975,0.974
